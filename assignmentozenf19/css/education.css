@@ -1,0 +1,96 @@
+.sablon{
+    width:800px;
+    height: auto;
+    margin: 30px auto;
+}
+
+body {
+    background-image:url(../images/back.jpg);
+}
+.logo{
+    width:100px;
+    height: 100px;
+    float: left;
+    background: url(../images/drawing.png);
+    background-repeat: no-repeat; 
+}
+.banner{
+    width:690px;
+    height:70px;
+    float:left;
+    margin-left: 10px;
+    background-color: #a66f46;
+    border-radius: 10px;
+    color:#fff;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    padding-top: 30px;
+}
+.navbar{
+    width:800px;
+    height:47px;
+    float: left;
+    margin-top: 10px;
+    background-color: #6a2525;
+    border-radius: 10px;
+}
+#tablo{
+    margin-left:80px;
+    margin-top: 25px;
+    font-size:25px;
+    color: #a66f46;
+    background-color:#ffffff;
+    border-collapse: collapse; 
+    font-family: 'Oswald', sans-serif; 
+}
+tablo, th, td {
+    border: 3px solid  #2a2324;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.header p{
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+}
+.header{
+    width: 800px;
+    height:60px;
+    float: left;
+    background-color: #2a2324;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.maintable{
+    width: 800px;
+    height:210px;
+    float: left;
+    background-color: #2a2324;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.navbar ul{
+    margin: 0;
+    padding: 0;
+    list-style: none; 
+}
+.navbar li{
+    float: left;
+}
+.navbar a{
+    display: block;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    padding: 14px 16px;
+    padding-right: 46px;
+    padding-left: 23px;
+    text-decoration: none;
+    font-family: 'Fjalla One', sans-serif; 
+}
+li a:hover {
+    color: #a66f46;
+}

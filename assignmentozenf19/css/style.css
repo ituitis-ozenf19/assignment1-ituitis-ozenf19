@@ -1,0 +1,92 @@
+p {
+    text-indent: 25px;
+}
+h6 {
+    text-align: center;
+    margin: auto;
+}
+
+body {
+    background-image:url(../images/back.jpg);
+}
+.sablon {
+    width:800px;
+    height: auto;
+    margin: 30px auto;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+    float: left;
+    background: url(../images/drawing.png);
+    background-repeat: no-repeat;
+}
+.banner {
+    width:690px;
+    height:70px;
+    float:left;
+    margin-left: 10px;
+    background-color: #a66f46;
+    border-radius: 10px;
+    color:#fff;
+    font-family: 'Amaranth', sans-serif;   
+    text-align: center;
+    padding-top: 30px;
+}
+.navbar {
+    width:800px;
+    height:47px;
+    float: left;
+    margin-top: 10px;
+    background-color: #6a2525;
+    border-radius: 10px;
+}
+.navbar ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;   
+}
+.navbar li {
+    float: left;
+}
+.navbar a {
+    display: block;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    padding: 14px 16px;
+    padding-right: 46px;
+    padding-left: 23px;
+    text-decoration: none;
+    font-family: 'Fjalla One', sans-serif;   
+}
+li a:hover {
+    color: #a66f46;
+}
+.mainone {
+    width:300px;
+    height: 280px;
+    background-color: #2a2324;
+    border-radius: 10px;
+    margin-top: 10px;  
+    float: left;
+}
+.maintwo {
+    width: 440px;
+    height: 260px;
+    background-color: #2a2324;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    padding-top: 20px;
+    padding-left: 25px;
+    padding-right: 20px;
+    color: #fff;
+    font-family: 'Amaranth', sans-serif;   
+}
+h5 {
+    font-family: 'Kalam', cursive;
+    font-size: 18px;
+    text-align: center;
+}
